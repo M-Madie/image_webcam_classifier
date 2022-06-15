@@ -1,4 +1,4 @@
-# Deep Learning based image classification from webcam model & script
+# Deep Learning based image classification from webcam
 
 This repository contains one of my projects as a data science student where I trained a Convolutional Neural Network to classify images of objects from 8 categories, and integrated it in a script that takes live images using a webcam and predicts the object category.
 
